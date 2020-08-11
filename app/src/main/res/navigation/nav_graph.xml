@@ -9,5 +9,6 @@
         android:name="net.mayuribirle.mvvmauth.ui.home.profile.ProfileFragment"
         android:label="Profile" tools:layout="@layout/profile_fragment"/>
     <fragment android:id="@+id/quotesFragment"
-       />
+        android:name="net.mayuribirle.mvvmauth.ui.home.quotes.QuotesFragment"
+        android:label="Quotes" tools:layout="@layout/quotes_fragment"/>
 </navigation>
